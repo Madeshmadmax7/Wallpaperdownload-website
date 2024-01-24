@@ -1,0 +1,88 @@
+body{
+    background-image: linear-gradient(hsla(127, 64%, 13%, 0.589),hsla(126, 61%, 18%, 0.475)),url(wallpaperflare.com_wallpaper\ \(41\).jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 35px;
+    color: white;
+    float: left;
+}
+.navbar{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    overflow: hidden;
+}
+.navbar ul{
+    list-style-type: none;
+    padding-left: 400px;
+    margin-right: 10px;
+}
+.navbar li{
+    float: left;
+    padding: 10px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 20px;
+}
+.navbar a:hover{
+    background-color: rgba(31, 110, 12, 0.486);
+    border-radius: 15px;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 200px;
+    margin-right: 60px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.search{
+    margin-top: 20px;
+    margin-left: 340px;
+    display: flex;
+}
+.search form{
+    display: flex;
+    align-items: center;
+}
+.search input{
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+    width: 50px;
+    text-align: center;
+    justify-content: center;
+    border-color: white;
+    float: left;
+}
+.search input{
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+    width: 500px;
+    text-align: center;
+    justify-content: center;
+    border-color: white;
+    float: left;
+}
+.search button{
+    border-radius: 20px;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    height: 40px;
+    width: 100px;
+}
+button:hover{
+    background-color: darkseagreen;
+    border-color: transparent;
+}

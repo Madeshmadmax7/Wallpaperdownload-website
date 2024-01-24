@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(to right,hsla(127, 64%, 13%, 0.589),hsla(126, 61%, 18%, 0.475)),url(wallpaperflare.com_wallpaper\ \(41\).jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+h1{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 35px;
+    color: white;
+    float: left;
+}
+.navbar{
+    font-weight: bold;
+    color: white;
+    overflow: hidden;
+}
+.navbar ul{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: none;
+    padding-left: 400px;
+    margin-right: 10px;
+}
+.navbar li{
+    float: left;
+    padding: 10px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 20px;
+}
+.navbar a:hover{
+    background-color: rgba(31, 110, 12, 0.486);
+    border-radius: 15px;
+}
+.wallpaper{
+    background-color: transparent;
+}
+.wallpaper .img17{
+    margin-top: 100px;
+    height: 300px;
+    width: 550px;
+    margin-left: 50px;
+    float: left;
+}
+.wallpaper .img18{
+    margin-left: 20px;
+    margin-right: 5%;
+    margin-top: 100px;
+    height: 300px;
+    width: 550px;
+}

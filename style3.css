@@ -1,0 +1,59 @@
+body{
+    background-image: linear-gradient(to right,hsla(126, 90%, 15%, 0.927),hsla(126, 90%, 15%, 0.927)),url(wallpaperflare.com_wallpaper\ \(41\).jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 35px;
+    color: white;
+    float: left;
+}
+.navbar{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    overflow: hidden;
+}
+.navbar ul{
+    list-style-type: none;
+    padding-left: 400px;
+    margin-right: 10px;
+}
+.navbar li{
+    float: left;
+    padding: 10px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 20px;
+}
+.navbar a:hover{
+    background-color: rgba(31, 110, 12, 0.486);
+    border-radius: 15px;
+}
+button{
+    text-align: center;
+    justify-content: center;
+    margin-left: 41%;
+    padding: 40px 80px 40px 80px;
+    border-radius: 30px;
+    color: white;
+    background-color: green;
+    border-color: transparent;
+}
+button:hover{
+    background-color: greenyellow;
+    color: black;
+}
+h2{
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
